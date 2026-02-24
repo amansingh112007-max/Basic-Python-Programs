@@ -1,5 +1,9 @@
+// Taking the input
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
+// Applying the sum logic
 result = num1 + num2
+//Printing the Result
 print("The sum of", num1, "and", num2, "is", result)
+
 
