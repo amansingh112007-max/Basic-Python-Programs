@@ -1,4 +1,4 @@
-// Taking the input from user
+// Taking the  input of numbers from user
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 // Applying the sum logic
