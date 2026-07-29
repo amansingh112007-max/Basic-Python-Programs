@@ -1,4 +1,3 @@
-
 a = input("Enter first number (a): ")
 b = input("Enter second number (b): ")
 print("Before swapping")
