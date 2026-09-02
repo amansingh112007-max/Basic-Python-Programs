@@ -1,4 +1,3 @@
-# 1. Rename the function (e.g., get_base_charge)
 def get_base_charge(k):
     if k == 2:
         base_charge = 500
