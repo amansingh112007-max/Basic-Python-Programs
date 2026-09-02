@@ -10,7 +10,6 @@ def get_base_charge(k):
     return base_charge
 
 def calculate_bill(load_val, units_val):
-    # 2. Call the updated function name here
     base_charge = get_base_charge(load_val)
     
     if units_val <= 100:
