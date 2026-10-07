@@ -1,4 +1,4 @@
-def get_base_charge(k):
+def get_base_charge(k): 
     if k == 2: 
         base_charge = 500
     elif k == 5:
