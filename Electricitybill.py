@@ -1,5 +1,5 @@
 def get_base_charge(k):
-    if k == 2:
+    if k == 2: 
         base_charge = 500
     elif k == 5:
         base_charge = 700
